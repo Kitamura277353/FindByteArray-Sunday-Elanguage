@@ -70,3 +70,7 @@ Makefile
 [Bb]in/
 [Oo]bj/
 
+# MSBuild tracking logs
+*.tlog
+
+
