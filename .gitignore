@@ -39,3 +39,34 @@
 
 # debug information files
 *.dwo
+
+# ===== IDE =====
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# ===== Build =====
+[Bb]in/
+[Oo]bj/
+build/
+cmake-build-*/
+out/
+dist/
+
+# ===== CMake =====
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ===== Misc =====
+*.log
+*.tmp
+*.cache
+
+# MSBuild obj output
+[Bb]in/
+[Oo]bj/
+
